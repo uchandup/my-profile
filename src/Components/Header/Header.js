@@ -5,7 +5,7 @@ const Header = (props) => {
     <Fragment>
       <header className="header">
         <h1>
-          {props.Title} - {props.NickName}
+          {props.Title} - {props.NickName} - p
         </h1>
       </header>
     </Fragment>
